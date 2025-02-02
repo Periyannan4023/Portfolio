@@ -164,7 +164,11 @@
   color: var(--primary);
   transition: 0.5s;
 }
-
+.portfolio-container img{
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
 .service-item:hover i {
   background: var(--primary);
   color: var(--light);
