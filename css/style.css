@@ -194,3 +194,10 @@
   color: #eeff00;
   font-weight: bold;
 }
+.experience .company{
+  color: yellow;
+  font-size: 25px;
+}
+.experience .mb-2.fw-bold{
+  color:#00B87B;
+}
